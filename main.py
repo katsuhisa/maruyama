@@ -3,7 +3,6 @@ import pandas as pd
 # import yfinance as yf
 import yahoo_finance_api2 as yf
 from yahoo_finance_api2 import share
-# %matplotlib inline
 import altair as alt
 import streamlit as st
 
